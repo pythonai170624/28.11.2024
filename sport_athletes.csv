@@ -1,35 +1,37 @@
-Sport Type,Athlete Name,Height (cm),Weight (kg),Country
-Basketball,Jordan,198,98,USA
-Basketball,LeBron,206,113,USA
-Basketball,Kobe,198,96,USA
-Basketball,Durant,208,109,USA
-Basketball,Shaq,216,147,USA
-Soccer,Ronaldo,187,84,Portugal
-Soccer,Messi,169,67,Argentina
-Soccer,Neymar,175,68,Brazil
-Soccer,Mbappe,178,73,France
-Soccer,Zidane,185,80,France
-Swimming,Phelps,193,88,USA
-Swimming,Ledecky,180,58,USA
-Swimming,Dressel,191,88,USA
-Swimming,Peaty,188,85,UK
-Swimming,Sun Yang,200,90,China
-Tennis,Federer,185,85,Switzerland
-Tennis,Nadal,185,85,Spain
-Tennis,Djokovic,188,84,Serbia
-Tennis,Serena,175,75,USA
-Baseball,Babe Ruth,188,95,USA
-Baseball,Hank Aaron,182,83,USA
-Baseball,Jackie Robinson,180,70,USA
-Baseball,Derek Jeter,191,89,USA
-Baseball,Willie Mays,185,78,USA
-Track and Field,Usain Bolt,195,94,Jamaica
-Track and Field,Carl Lewis,187,81,USA
-Track and Field,Mo Farah,176,65,UK
-Track and Field,Ashton Eaton,185,77,USA
-Track and Field,Florence Griffith,165,57,USA
-Cycling,Lance Armstrong,180,70,USA
-Cycling,Chris Froome,181,72,UK
-Cycling,Tadej Pogacar,184,69,Slovenia
-Cycling,Eddy Merckx,186,68,Belgium
-Cycling,Primoz Roglic,183,71,Slovenia
+Country,Sport Type,Athlete Name,Height (cm),Weight (kg),Number of Wins (1-3),Olympic Date
+USA,Basketball,Michael Jordan,198,98,3,08/08/1992
+USA,Basketball,LeBron James,206,113,2,15/08/2008
+USA,Basketball,Kobe Bryant,198,96,2,24/08/2012
+USA,Basketball,Kevin Durant,208,109,3,10/08/2016
+USA,Basketball,Shaquille O'Neal,216,147,1,22/08/2000
+Brazil,Soccer,Pelé,174,72,3,18/08/1970
+Brazil,Soccer,Marta,163,57,3,01/08/2004
+Portugal,Soccer,Cristiano Ronaldo,187,83,2,25/08/2008
+Argentina,Soccer,Lionel Messi,170,69,2,11/08/2016
+France,Soccer,Zinedine Zidane,185,80,3,17/08/1998
+USA,Soccer,Megan Rapinoe,168,62,2,05/08/2020
+USA,Swimming,Michael Phelps,193,88,5,16/08/2004
+USA,Swimming,Katie Ledecky,180,58,4,25/08/2012
+USA,Swimming,Caeleb Dressel,191,88,3,06/08/2016
+Australia,Swimming,Ian Thorpe,196,85,4,11/08/2000
+China,Swimming,Sun Yang,200,90,3,08/08/2012
+Switzerland,Tennis,Roger Federer,185,85,2,28/07/2008
+USA,Tennis,Serena Williams,175,70,4,01/08/2012
+Spain,Tennis,Rafael Nadal,185,85,3,05/08/2016
+Serbia,Tennis,Novak Djokovic,188,84,4,10/08/2020
+Jamaica,Track and Field,Usain Bolt,195,94,6,22/08/2012
+USA,Track and Field,Carl Lewis,188,81,4,15/08/1984
+UK,Track and Field,Mo Farah,176,65,5,05/08/2016
+USA,Track and Field,Florence Griffith,165,57,4,18/08/1988
+USA,Track and Field,Ashton Eaton,185,77,3,08/08/2016
+UK,Cycling,Chris Froome,180,70,4,08/08/2012
+Belgium,Cycling,Eddy Merckx,181,72,5,15/08/1980
+Slovenia,Cycling,Tadej Pogacar,184,69,3,11/08/2020
+Slovenia,Cycling,Primoz Roglic,186,68,3,05/08/2016
+UK,Cycling,Geraint Thomas,183,71,4,08/08/2008
+Netherlands,Cycling,Anna van der Breggen,175,68,4,10/08/2020
+USA,Gymnastics,Simone Biles,142,48,5,05/08/2016
+Romania,Gymnastics,Nadia Comaneci,155,50,5,18/08/1976
+USA,Gymnastics,Aly Raisman,160,52,3,10/08/2012
+USA,Gymnastics,Shawn Johnson,157,50,3,15/08/2008
+USA,Gymnastics,Gabby Douglas,150,45,3,11/08/2016
